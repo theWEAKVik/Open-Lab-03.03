@@ -1,7 +1,7 @@
 # Open-Lab-03.03
 (7 XP) A function that compares the length of two strings.
 
-1. Clone this repository to your GitHub account.
+1. Fork this repository to your GitHub account.
 2. Open solution file in Visual Studio.
 3. Open file `Comparator.cs`.
 4. Implement the method `CompareCharactersCount(string str1, string str2)` that compares if two strings have the same length.
